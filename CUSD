@@ -1,0 +1,25 @@
+{
+  "name": "DEFI",
+  "logoURI": "https://i.ibb.co/gwCbfvq/CUSD-2.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "Jan-23-2021 07:13:09 AM +UTC",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xf7BCc16f5Ccf1c7Fa195C22dda8a88329E528649",
+      "name": "DEFI",
+      "symbol": "DEFI",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/gwCbfvq/CUSD-2.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
